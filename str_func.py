@@ -7,3 +7,5 @@ def upper_str():
 """функция по переводу первой буквы слова в заглавную"""
 def upcase_first_letter(s):
     return s[0].upper() + s[1:]
+
+print()
